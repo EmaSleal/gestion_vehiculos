@@ -40,6 +40,8 @@ npm start
 
 ## Funcionalidades
 
+En el inicio se presenta la pagina de listar y en la parte superior izquierda hay un boton que despliega un menu lateral que contiene las siguientes funcionalidades:
+
 ### Funcionalidad: Agregar Vehículo
 Esta funcionalidad permite agregar un nuevo vehículo al sistema de gestión de vehículos. Al agregar un vehículo, se deben proporcionar los siguientes campos:
 
