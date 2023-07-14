@@ -75,7 +75,7 @@ Haz un fork del proyecto
 
 Asegúrate de seguir las buenas prácticas de desarrollo y proporcionar una descripción clara de tu contribución.
 
-##Contacto
+## Contacto
 
 Si tienes alguna pregunta o consulta relacionada con este proyecto, no dudes en ponerte en contacto conmigo a través de mi correo eléctronico:
 
