@@ -66,12 +66,17 @@ Además cada vehículo tiene un botón de editar o eliminar vehículo. A la vez 
 
 Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
-Haz un fork del proyecto
-1-Crea una rama para tu contribución (git checkout -b mi-contribucion)
-2-Realiza los cambios o mejoras necesarios
-3-Haz commit de tus cambios (git commit -m 'Agrega mi contribución')
-4-Sube tus cambios a tu repositorio fork (git push origin mi-contribucion)
-5-Abre un Pull Request en este repositorio
+1-Haz un fork del proyecto
+
+2-Crea una rama para tu contribución (git checkout -b mi-contribucion)
+
+3-Realiza los cambios o mejoras necesarios
+
+4-Haz commit de tus cambios (git commit -m 'Agrega mi contribución')
+
+5-Sube tus cambios a tu repositorio fork (git push origin mi-contribucion)
+
+6-Abre un Pull Request en este repositorio
 
 Asegúrate de seguir las buenas prácticas de desarrollo y proporcionar una descripción clara de tu contribución.
 
@@ -80,4 +85,5 @@ Asegúrate de seguir las buenas prácticas de desarrollo y proporcionar una desc
 Si tienes alguna pregunta o consulta relacionada con este proyecto, no dudes en ponerte en contacto conmigo a través de mi correo eléctronico:
 
 Nombre: Emanuel Soto Leal
+
 Correo electrónico: manusl2908@gmail.com 
